@@ -31,7 +31,7 @@
 
 <h3>I write what I think</h3>
 
-[![](https://gtce.itsvg.in/api?username=desheeesh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=devanshe15)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 [![](https://visitcount.itsvg.in/api?id=devanshe15&icon=0&color=5)](https://visitcount.itsvg.in)
 
