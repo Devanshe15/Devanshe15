@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/desheeesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desheeesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devanshe sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshe sharma" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/devanshe sharma](https://www.linkedin.com/in/devanshe-sharma-b939a51a8/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshe sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/devansheesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devansheesh_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/devanshesharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devanshesharma" height="30" width="40" /></a>
 <a href="https://www.pinterest.com/devansheesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="devansheesh_" height="30" width="40" /></a>
