@@ -7,8 +7,8 @@
 - 📫 How to reach me **devanshesharma6@gmail.com**
 
 - ⚡ Fun fact **a piece of fiction for the rest of my life.**
-- <br/>
-- Currently working on Stackoverflow= clone
+
+- 🎯Currently working **on Stackoverflow-clone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
