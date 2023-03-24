@@ -36,5 +36,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=devanshe15&icon=0&color=5)](https://visitcount.itsvg.in)
 
-![I listen what I think](https://spotify-recently-played-readme.vercel.app/api?user=1kinxfp635dmfnu7u83fho9c2&count=3)
+![I listen what I think](https://spotify-recently-played-readme.vercel.app/api?user=1kinxfp635dmfnu7u83fho9c2&count=2)
 
