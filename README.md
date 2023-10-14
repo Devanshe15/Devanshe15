@@ -28,3 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshe15&show_icons=true&locale=en" alt="devanshe15" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshe15&" alt="devanshe15" /></p>
+<h3>➕listen with me:</h3>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1kinxfp635dmfnu7u83fho9c2&count=2)
