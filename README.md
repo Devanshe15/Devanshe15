@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/devanshe15" target="blank"><img src="https://img.shields.io/twitter/follow/devanshe15?logo=twitter&style=for-the-badge" alt="devanshe15" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs , Django**
+-  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/>  I’m currently learning **ReactJs , Django**
 
-- 📫 How to reach me **devanshesharma6@gmail.com**
+- <img src="https://media.giphy.com/media/RlOAlt0Qmsw4CTIELN/giphy.gif" height="45" width="40"/> How to reach me **devanshesharma6@gmail.com**
+
+- <img src="https://media.giphy.com/media/91BymptieRgKaF7tiR/giphy.gif" height="40" width="40"/> I make content fun and love to film🎥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,5 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshe15&show_icons=true&locale=en" alt="devanshe15" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshe15&" alt="devanshe15" /></p>
 <h3>➕listen with me:</h3>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21jb3FhYzhjbjFzbGIzZWJhdzM0bG43MTd5OG03MGo5ZXgyOXU1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vLHnnIiwUN7a/giphy.gif" width="200" />
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1kinxfp635dmfnu7u83fho9c2&count=2)
