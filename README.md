@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devanshe sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  <div align="center">
-<img src="https://media.giphy.com/media/P0ZRTYaCmPsJPNd3r0/giphy.gif" width="300" alt="jokes GIF">
+<img src="https://media.giphy.com/media/KSKvdT1YGCpUIonvSq/giphy.gif" width="300" alt="jokes GIF">
  </div>
 
 <p align="left"> <a href="https://twitter.com/devanshe15" target="blank"><img src="https://img.shields.io/twitter/follow/devanshe15?logo=twitter&style=for-the-badge" alt="devanshe15" /></a> </p>
