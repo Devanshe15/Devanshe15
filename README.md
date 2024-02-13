@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://in.pinterest.com/devansheesh/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="devanshe15" height="30" width="40" /></a> -->
+<a href="https://in.pinterest.com/devansheesh/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="devanshe15" height="30" width="40" /></a>
 <a href="https://twitter.com/devanshe15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devanshe15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devanshe-sharma-b939a51a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshe-sharma-b939a51a8/" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/devansheesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devansheesh_" height="30" width="40" /></a> -->
@@ -32,4 +32,4 @@
 <h3>➕listen with me:</h3>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21jb3FhYzhjbjFzbGIzZWJhdzM0bG43MTd5OG03MGo5ZXgyOXU1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vLHnnIiwUN7a/giphy.gif" width="200" />
 
-<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1kinxfp635dmfnu7u83fho9c2&count=2)-->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1kinxfp635dmfnu7u83fho9c2&count=2)
