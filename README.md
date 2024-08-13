@@ -14,13 +14,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://in.pinterest.com/devansheesh/_created"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="devanshe15" height="30" width="40" /></a>
-<a href="https://twitter.com/devanshe15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devanshe15" height="30" width="40" /></a>
+<!-- <a href="https://in.pinterest.com/devansheesh/_created"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="devanshe15" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/devanshe15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devanshe15" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/devanshe-sharma-b939a51a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshe-sharma-b939a51a8/" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/devansheesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devansheesh_" height="30" width="40" /></a> -->
-<a href="https://medium.com/@Dsharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dsharma" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@Dsharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dsharma" height="30" width="40" /></a> -->
 <!-- <!-- <a href="https://www.codechef.com/users/devanshesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devanshesh" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/devanshesharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devanshesharma" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/devanshesharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devanshesharma" height="30" width="40" /></a> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
